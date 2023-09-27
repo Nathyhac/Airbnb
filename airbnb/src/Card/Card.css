@@ -1,0 +1,29 @@
+
+.list-items{
+    border-radius: 5px;
+
+}
+.card--image{
+    width: 200px;
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: 4px 4px 7px rgba(9, 0, 0, 0.7);
+}
+
+.card--stats{
+    margin: 10px;
+    color: gray;
+}
+.rating--icon{
+    margin-left: 0px;
+    margin-right: 5px;
+    margin-top: 0px;
+}
+.card--price{
+    color: black;
+    font-weight: bold;
+}
+.card_price_per-person{
+    margin-left: 5px;
+    color: seagreen;
+}

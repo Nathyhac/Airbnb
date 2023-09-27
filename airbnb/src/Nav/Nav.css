@@ -1,0 +1,13 @@
+.logo__container{
+    margin: 20px;
+    width: 98%;
+    height: 70px;
+    box-shadow: 4px 5px 10px rgba(0, 0, 0, 0.8);
+    }
+
+.logo-img{
+    margin-top: 10px;
+    height: 50px;
+    margin-left: 10px;
+    
+}
